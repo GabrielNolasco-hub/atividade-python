@@ -1,0 +1,6 @@
+id,nome,idade,gostos
+1,Marcos,28,"['Música', 'Futebol']"
+2,Ana,24,"['Leitura', 'Cinema']"
+3,Carlos,30,['Viagem']
+4,Julia,22,"['Dança', 'Esportes']"
+5,Pedro,27,"['Tecnologia', 'Culinária']"
